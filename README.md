@@ -1,7 +1,5 @@
 # Simple Blockchain Simulation with API
 
-![Blockchain Simulation](https://your-image-url.com)
-
 ## 📌 Overview
 This project is a **simple blockchain simulation** implemented in Python with Flask. It allows users to interact with the blockchain via a REST API, including:
 - Adding transactions
